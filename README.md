@@ -50,5 +50,6 @@ python zku_segSentence.py
 ```
 
 ### 参考：
-[CSDN](https://blog.csdn.net/weixin_34001430/article/details/94267243)
-[Github](https://github.com/CodeManYep/ZhWikiCorpus)
+- [CSDN](https://blog.csdn.net/weixin_34001430/article/details/94267243)
+
+- [Github](https://github.com/CodeManYep/ZhWikiCorpus)
